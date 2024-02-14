@@ -45,8 +45,8 @@ function generateMessage(noCount) {
     "No",
     "Are you sure?",
     "Please...",
-    ":(",
     "Don't choose this...",
+    ":(",
     "I'm gonna cry...",
   ];
 
